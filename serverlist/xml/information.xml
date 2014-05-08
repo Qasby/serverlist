@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<information>
+  <data>
+    <name>Server List</name>
+    <public_name>Server List</public_name>
+    <hide_tab>1</hide_tab>
+    <author>Tadek</author>
+    <description>List of servers</description>
+    <disabledatinstall>0</disabledatinstall>
+    <global_caches/>
+	    <templategroups>
+        <template match="exact">skin_serverlist</template>
+    </templategroups>
+    <website/>
+    <update_check/>
+    <templategroups/>
+  </data>
+</information>

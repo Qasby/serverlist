@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+	<tabitems>
+		<item>
+			<title>Server List</title>
+			<subitems>
+				<subitem>
+					<subitemtitle>Lista serwerów</subitemtitle>
+					<subitemlang>myapp_somelink</subitemlang>
+					<subsection>serverList</subsection>
+					<subitemurl></subitemurl>
+					<subitemrolekey></subitemrolekey>
+					<subisredirect>0</subisredirect>
+				</subitem>
+			</subitems>
+		</item>
+		<item>
+			<title>Server List</title>
+			<subitems>
+				<subitem>
+					<subitemtitle>Dodaj serwer</subitemtitle>
+					<subitemlang>myapp_anotherlink</subitemlang>
+					<subsection>addserver</subsection>
+					<subitemurl></subitemurl>
+					<subitemrolekey></subitemrolekey>
+					<subisredirect>0</subisredirect>
+				</subitem>
+			</subitems>
+		</item>
+	</tabitems>
+</menu>
